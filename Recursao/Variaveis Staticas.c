@@ -2,10 +2,10 @@
 
 int fun(int n) {
 
-	static int x=0;
+	static int x = 0;
 	if(n>0) {
 		x++;
-		return fun(n-1)+x;
+		return fun(n-1) + x;
 	}
 
 	return 0;
@@ -14,12 +14,12 @@ int fun(int n) {
 int main() {
 
 	int r;
-	r=fun(5);
+	r = fun(5);
 	
-	printf("%d\n",r);
-	r=fun(5);
+	printf("%d\n", r);
+	r = fun(5);
 	
-	printf("%d\n",r);
+	printf("%d\n", r);
 	return 0;
 }
 
