@@ -1,4 +1,4 @@
-/* Head Recursion */
+/* Recursão Inicial */
 
 #include <stdio.h>
 
