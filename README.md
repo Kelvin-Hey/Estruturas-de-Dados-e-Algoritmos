@@ -9,3 +9,4 @@
  - [05 Árvore de Recursão](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Arvore%20de%20Recursao.c)
  - [06 Recursão Aninhada](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Recursao%20Aninhada.c)
  - [07 Soma de N números](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Soma%20de%20N%20numeros)
+ - [08 Fatorial](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Fatorial.c)
