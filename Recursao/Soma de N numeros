@@ -1,6 +1,6 @@
 /* Soma de N números */
 
-#include <stdio.h>
+#include<stdio.h>
 
 int sum(int n) {
 	
@@ -13,7 +13,7 @@ int sum(int n) {
 
 int Isum(int n) {
 	
-	int s = j0;
+	int s = 0;
 	int i;
 	
 	for (i = 1; i <= n; i++) {
