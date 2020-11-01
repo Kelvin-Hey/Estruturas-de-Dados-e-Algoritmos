@@ -1,4 +1,4 @@
-/* Potência * /
+/* Potência */
 
 include<stdio.h>
 
