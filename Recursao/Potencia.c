@@ -2,7 +2,7 @@
 
 include<stdio.h>
 
- int power(int m, int n) {  /* forma 1 */
+int power(int m, int n) {  /* forma 1 */
 
 	if (n == 0) {
 		return 1;
