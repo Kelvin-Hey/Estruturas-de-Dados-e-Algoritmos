@@ -11,3 +11,4 @@
  - [07 Soma de N números](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Soma%20de%20N%20numeros)
  - [08 Fatorial](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Fatorial.c)
  - [09 Potência](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Potencia.c)
+ - [10 Série de Taylor](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor.c)
