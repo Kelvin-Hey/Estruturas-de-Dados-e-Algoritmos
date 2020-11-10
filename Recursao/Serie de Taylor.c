@@ -1,5 +1,7 @@
 /* Série de Taylor */
 
+include <stdio.h>
+
 double e(int x, int n) {
 
   static double p = 1;
