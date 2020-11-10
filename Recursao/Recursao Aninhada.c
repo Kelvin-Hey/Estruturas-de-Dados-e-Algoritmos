@@ -6,7 +6,7 @@ int fun(int n) {
 		return n - 10;
  	}
 	
-	return fun(fun(n + 11));	// uma função dentro da outra(chamada recursiva
+	return fun(fun(n + 11));	// uma função dentro da outra(chamada recursiva)
 }
 
 int main() {
