@@ -1,5 +1,7 @@
 /*Série de Taylor usando regra de Horner */
 
+include <stdio.h>
+
 double e(int x, int n) {
 
   static double s;
