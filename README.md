@@ -14,3 +14,4 @@
  - [10 Série de Taylor](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor.c)
  - [11 Série de Taylor usando regra de Horner](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor%20usando%20regra%20de%20Horner.c)
  - [12 Série de Taylor Iterativa](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor.c)
+ - [13 Combinação](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Combinacao.c)
