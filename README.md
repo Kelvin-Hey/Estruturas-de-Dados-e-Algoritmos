@@ -15,3 +15,4 @@
  - [11 Série de Taylor usando regra de Horner](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor%20usando%20regra%20de%20Horner.c)
  - [12 Série de Taylor Iterativa](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor.c)
  - [13 Combinação](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Combinacao.c)
+ - [14 Torre de Hanoi](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Torre%20de%20Hanoi.c)
