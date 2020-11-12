@@ -17,6 +17,6 @@
  - [13 Combinação](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Combinacao.c)
  - [14 Torre de Hanoi](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Torre%20de%20Hanoi.c)
  
- [ Representação de Arranjos ]
+ [ Representação de Arranjos ](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/tree/main/Representa%C3%A7%C3%A3o%20de%20Arranjos)
  
  - [01 Arranjos Estáticos vs Dinâmicos](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Representa%C3%A7%C3%A3o%20de%20Arranjos/Arranjos%20Estaticos%20vs%20Dinamicos.c)
