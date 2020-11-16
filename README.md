@@ -23,6 +23,6 @@
  - [02 Tamanho do Arranjo](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Representa%C3%A7%C3%A3o%20de%20Arranjos/Tamanho%20do%20Arranjo.c)
  - [03 Arranjo 2D](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Representa%C3%A7%C3%A3o%20de%20Arranjos/Arranjo%202D.c)
  
- [Arranjo TDA(Tipo de Dados Abstratos]
+ [Arranjo TDA](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/tree/main/Arranjo%20TDA)
  
- -[Inserção, Mostrar, Acrescentar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Insercao%2C%20Mostrar%2C%20Acrecentar.c)
+ -[01 Inserção, Mostrar, Acrescentar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Insercao%2C%20Mostrar%2C%20Acrecentar.c)
