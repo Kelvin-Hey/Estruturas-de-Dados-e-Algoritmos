@@ -25,4 +25,4 @@
  
  [Arranjo TDA](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/tree/main/Arranjo%20TDA)
  
- -[01 Inserção, Mostrar, Acrescentar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Insercao%2C%20Mostrar%2C%20Acrecentar.c)
+ - [01 Inserção, Mostrar, Acrescentar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Insercao%2C%20Mostrar%2C%20Acrecentar.c)
