@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-stuct Array {
+struct Array {
 
   int A[10];
   int size;
