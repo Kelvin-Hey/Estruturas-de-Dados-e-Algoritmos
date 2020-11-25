@@ -1,4 +1,4 @@
-/* Pesquisa em um arranjo */
+/* Pesquisa Linear */
 
 #include<stdio.h>
 
