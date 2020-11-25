@@ -7,7 +7,6 @@ struct Array {
 };
 
 void Display(struct Array arr) {
-  
   int i;
   printf("\nElements are\n");
   for (i = 0; i < arr.length; i++)
@@ -15,13 +14,11 @@ void Display(struct Array arr) {
 }
 
 void Append(struct Array *arr, int x) {
-  
-  if (arr -> length < arr -> size)
-    arr -> A[arr -> length++] = x;
+  if (arr->length < arr->size)
+    arr->A[arr->length++] = x;
 }
 
 void Insert(struct Array * arr, int index, int x) {
-  
   int i;
   if (index >= 0 && index <= arr -> length) {
     for (i = arr -> length; i > index; i--)
@@ -32,7 +29,6 @@ void Insert(struct Array * arr, int index, int x) {
 }
 
 int main() {
-  
   struct Array arr1 = {{2,3,4,5,6},10,5};
   
   Append( & arr1, 10);
