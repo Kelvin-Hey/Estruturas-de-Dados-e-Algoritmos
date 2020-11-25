@@ -33,7 +33,7 @@ int LinearSearch(struct Array *arr, int key) {
   for (i = 0; i < arr->length; i++) {
     if (key == arr-> A[i]) {      
       Swap(&arr->A[i], &arr->[0]);
-      return i;
+      return i;         // retorna o elemento encontrado
     }
   }
   return -1;
