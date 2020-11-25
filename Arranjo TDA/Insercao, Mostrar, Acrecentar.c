@@ -21,9 +21,9 @@ void Append(struct Array *arr, int x) {
 void Insert(struct Array * arr, int index, int x) {
   int i;
   
-  if (index >= 0 && index <= arr->length) {
+  if (index >= 0 && index <= arr->length) {   
     for (i = arr->length; i > index; i--) {
-      arr->A[i] = arr->A[i - 1];
+      arr->A[i] = arr->A[i - 1];     // muda a posição dos elementos para a direita
     }
     
     arr->A[index] = x;
