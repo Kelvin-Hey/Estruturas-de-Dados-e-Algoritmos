@@ -14,8 +14,8 @@ void Display(struct Array arr) {
     printf("%d ", arr.A[i]);
 }
 
-int Delete(struct Array *arr, int index) {
-  
+int Delete(struct Array *arr, int index) {    // quando um elemento é deletado, seu espaço
+                                              // naõ pode ser deixado em branco
   int x = 0;
   int i;
   
@@ -24,7 +24,7 @@ int Delete(struct Array *arr, int index) {
     x = arr->A[index];
     
     for (i = index; i < arr->length - 1; i++) {
-      arr->A[i] = arr -> A[i + 1];
+      arr->A[i] = arr -> A[i + 1];            // muda os elementos para a esquerda
     }
   
     arr->length--;
