@@ -27,4 +27,4 @@
  
  - [01 Inserção, Mostrar, Acrescentar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Insercao%2C%20Mostrar%2C%20Acrecentar.c)
  - [02 Deletar](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Deletar.c) 
- - [03 Pesquisa em um Arranjo](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Pesquisa%20em%20um%20arranjo.c)
+ - [03 Pesquisa Linear] (https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Arranjo%20TDA/Pesquisa%20Linear.c)
