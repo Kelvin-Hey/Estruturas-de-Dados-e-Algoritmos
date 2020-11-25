@@ -31,8 +31,7 @@ int LinearSearch(struct Array *arr, int key) {
   int i;
   
   for (i = 0; i < arr->length; i++) {
-    if (key == arr-> A[i]) {
-      
+    if (key == arr-> A[i]) {      
       Swap(&arr->A[i], &arr->[0]);
       return i;
     }
