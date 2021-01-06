@@ -9,7 +9,7 @@
  - [05 Árvore de Recursão](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Arvore%20de%20Recursao.c)
  - [06 Recursão Indireta](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Recursao%20Indireta.c)
  - [07 Recursão Aninhada](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Recursao%20Aninhada.c)
- - [08 Soma de N números](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Soma%20de%20N%20numeros)
+ - [08 Soma de N números](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Soma%20de%20N%20numeros.c)
  - [09 Fatorial](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Fatorial.c)
  - [10 Potência](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Potencia.c)
  - [11 Série de Taylor](https://github.com/Kelvin-Hey/Estruturas-de-Dados-e-Algoritmos/blob/main/Recursao/Serie%20de%20Taylor.c)
