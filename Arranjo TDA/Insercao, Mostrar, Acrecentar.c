@@ -18,7 +18,7 @@ void Append(struct Array *arr, int x) {
     arr->A[arr->length++] = x;
 }
 
-void Insert(struct Array * arr, int index, int x) {
+void Insert(struct Array * arr, int index, int x) { // index: POSIÇÃO x: VALOR
   int i;
   
   if (index >= 0 && index <= arr->length) {   
