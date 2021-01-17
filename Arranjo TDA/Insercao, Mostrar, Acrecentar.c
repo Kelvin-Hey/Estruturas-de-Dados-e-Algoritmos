@@ -21,7 +21,7 @@ void Append(struct Array *arr, int x) {
 void Insert(struct Array * arr, int index, int x) { // index: POSIÇÃO x: VALOR
   int i;
   
-  if (index >= 0 && index <= arr->length) {   
+  if (index >= 0 && index <= arr->length) { // até chegar ao último elemento preechido do vetor 
     for (i = arr->length; i > index; i--) {
       arr->A[i] = arr->A[i - 1];     // muda a posição dos elementos para a direita
     }
